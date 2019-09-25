@@ -1,5 +1,7 @@
 # GitDuck brand
 
+![Logo-h-dark-alpha](https://github.com/gitduckhq/brand/blob/master/logo/gitduck-logo-h-dark-alpha-256w.png)
+
 ### Options
 * Icon only.
 * Logo in horizontal and vertical format.
